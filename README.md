@@ -1,6 +1,8 @@
 # wxWidgetsTicTacToe
 C++ GUI Tic Tac Toe game
 
+![Alt text](screenshot.jpg?raw=true "Screenshot of tic tac toe game")
+
 To install wxWidgets GUI framework on Debian based distos, (Ubuntu, Mint, Raspbian, etc.) install the wxWidgets library.
 
 `sudo apt-get update`
