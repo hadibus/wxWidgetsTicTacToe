@@ -7,7 +7,7 @@ To install wxWidgets GUI framework on Debian based distos, (Ubuntu, Mint, Raspbi
 
 `sudo apt-get install libwxgtk3.0-dev`
 
-then in the directory where it was downloaded, enter 
+Then while in the directory of the source files, enter 
 
 `make`
 
